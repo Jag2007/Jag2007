@@ -50,14 +50,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jag2007&show_icons=true&theme=radical" height="250" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
