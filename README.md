@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Jagruthi 👋</h1>
-<h3 align="center">NST Student · Intern @Artizence · Freelance Web Developer · UI with Vision · Code with Purpose</h3>
+<h3 align="center">NST Student · Ex-Intern @Artizence · Freelance Web Developer · UI with Vision · Code with Purpose</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C896&width=500&lines=Frontend+Developer+%7C+AI+Enthusiast+%7C+React+Lover;Building+with+Vision+%F0%9F%92%AB;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C896&width=500&lines=FullStack+Developer+%7C+AI+Enthusiast+%7C+React+Lover;Building+with+Vision+%F0%9F%92%AB;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,11 +10,11 @@
 ### ✨ About Me
 
 - 🌸 I'm a **B.Tech Artificial Intelligence student** at **Rishihood University, NST** (2024–2028)
-- 💼 Currently working as a **Frontend Developer Intern @Artizence** and also a **Freelance Web Developer**
+- 💼 Currently working as a **UI/UX Freelance Developer**
 - 💡 I love designing sleek **UI/UX**, building with **React**, and exploring the world of **AI and Machine Learning**
 - 💻 I've built interactive projects using **React**, **TypeScript**, **Tailwind CSS**, **JavaScript**, **Vite**, and **Python**
-- 💪 Solved **190+ problems on LeetCode** (1394+ rating) and hold an **818+ rating on Codeforces**
-- 🎓 CGPA: **7.65 / 10.0**
+- 💪 Solved **200+ problems on LeetCode** (1394+ rating) and hold an **818+ rating on Codeforces**
+- 🎓 CGPA: **7.48 / 10.0**
 - 👩‍🎨 Passionate about **creative coding, intuitive UIs**, and making tech aesthetically pleasing ✨
 - 🏆 Finalist in **Unstop Ideathon**, 4th Place in **Hacker Hunt**, and participant in **Google's Girl Hackathon**
 - 🌈 Outside tech: I chill with good music, watch YJHD/Dear Comrade type films, and snack on pani puri 😋
