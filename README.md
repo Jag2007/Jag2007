@@ -14,7 +14,7 @@
 - 💡 I love designing sleek **UI/UX**, building with **React**, and exploring the world of **AI and Machine Learning**
 - 💻 I've built interactive projects using **React**, **TypeScript**, **Tailwind CSS**, **JavaScript**, **Vite**, and **Python**
 - 💪 Solved **200+ problems on LeetCode** (1394+ rating) and hold an **818+ rating on Codeforces**
-- 🎓 CGPA: **7.48 / 10.0**
+- 🎓 CGPA: **7.880 / 10.0**
 - 👩‍🎨 Passionate about **creative coding, intuitive UIs**, and making tech aesthetically pleasing ✨
 - 🏆 Finalist in **Unstop Ideathon**, 4th Place in **Hacker Hunt**, and participant in **Google's Girl Hackathon**
 - 🌈 Outside tech: I chill with good music, watch YJHD/Dear Comrade type films, and snack on pani puri 😋
