@@ -45,8 +45,7 @@
 - 🖌️ [Nail Artist Catalog](https://getnailedbyaish-catalog.vercel.app/) — A dreamy, aesthetic nail portfolio
 - 🌡️ [Temperature Converter](https://tempconvor.netlify.app/) — A simple, clean converter web app
 - 👩‍💻 [My Portfolio](https://jagruthiportfolio2007.vercel.app/) — Showcasing my journey and skills
-- 😂 [Meme Generator](https://meme-generator-jade-rho.vercel.app/) — Fun project with random API memes
-- 🛒 [Amazon Clone](https://amazonclone77.netlify.app/) — Built using HTML, CSS, JavaScript
+- 😂 [Near Glow](https://near-glow.vercel.app/) — Glow on demand - like ordering beauty
 
 ---
 
