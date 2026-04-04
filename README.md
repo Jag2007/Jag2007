@@ -42,10 +42,10 @@
 
 ### 🔥 Projects I'm Proud Of
 
-- 🖌️ [Nail Artist Catalog](https://getnailedbyaish-catalog.vercel.app/) — A dreamy, aesthetic nail portfolio
-- 🌡️ [Temperature Converter](https://tempconvor.netlify.app/) — A simple, clean converter web app
-- 👩‍💻 [My Portfolio](https://jagruthiportfolio2007.vercel.app/) — Showcasing my journey and skills
-- 😂 [Near Glow](https://near-glow.vercel.app/) — Glow on demand - like ordering beauty
+- [Nail Artist Catalog](https://getnailedbyaish-catalog.vercel.app/) — A dreamy, aesthetic nail portfolio for a small business.
+- [Temperature Converter](https://tempconvor.netlify.app/) — A simple, clean converter web app.
+- [My Portfolio](https://jagruthiportfolio2007.vercel.app/) — Showcasing my journey and skills.
+- [Near Glow](https://near-glow.vercel.app/) — Glow on demand - like ordering beauty.
 
 ---
 
