@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Jagruthi 👋</h1>
-<h3 align="center">NST Student · Ex-Intern @Artizence · Freelance Web Developer · UI with Vision · Code with Purpose</h3>
+<h3 align="center">NST Student · Currently Interning at Hebbrix · Ex-Intern @Artizence · Freelance Web Developer · UI with Vision · Code with Purpose</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C896&width=500&lines=FullStack+Developer+%7C+AI+Enthusiast+%7C+React+Lover;Building+with+Vision+%F0%9F%92%AB;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
