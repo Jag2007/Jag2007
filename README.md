@@ -13,7 +13,7 @@
 - 💼 Currently working as a **UI/UX Freelance Developer**
 - 💡 I love designing sleek **UI/UX**, building with **React**, and exploring the world of **AI and Machine Learning**
 - 💻 I've built interactive projects using **React**, **TypeScript**, **Tailwind CSS**, **JavaScript**, **Vite**, and **Python**
-- 💪 Solved **200+ problems on LeetCode** (1394+ rating) and hold an **818+ rating on Codeforces**
+- 💪 Solved **260+ problems on LeetCode** (1394+ rating) and hold an **818+ rating on Codeforces**
 - 🎓 CGPA: **8.619 / 10.0**
 - 👩‍🎨 Passionate about **creative coding, intuitive UIs**, and making tech aesthetically pleasing ✨
 - 🏆 Finalist in **Unstop Ideathon**, 4th Place in **Hacker Hunt**, and participant in **Google's Girl Hackathon**
