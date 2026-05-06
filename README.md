@@ -15,8 +15,6 @@
 - 💻 I've built interactive projects using **React**, **TypeScript**, **Tailwind CSS**, **JavaScript**, **Vite**, and **Python**
 - 💪 Solved **260+ problems on LeetCode** (1394+ rating) and hold an **818+ rating on Codeforces**
 - 🎓 CGPA: **8.619 / 10.0**
-- 👩‍🎨 Passionate about **creative coding, intuitive UIs**, and making tech aesthetically pleasing ✨
-- 🏆 Finalist in **Unstop Ideathon**, 4th Place in **Hacker Hunt**, and participant in **Google's Girl Hackathon**
 - 🌈 Outside tech: I chill with good music, watch YJHD/Dear Comrade type films, and snack on pani puri 😋
 
 📬 Reach me at: **jagruthi.pulumati2024@nst.rishihood.edu.in**
