@@ -72,7 +72,3 @@
 </p>
 
 ---
-
-<p align="center">
-  Made with 🧠 + 💖 by <strong>Jagruthi</strong>
-</p>
